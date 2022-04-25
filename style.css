@@ -1,0 +1,44 @@
+.banner{
+    background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") no-repeat center center;
+    background-size: cover;
+    padding: 20%;
+    margin: 0%;
+    color: #fff;
+}
+
+.navbar-brand{
+    padding-left: 5%;
+    font-size: 24px;
+    text-shadow: pink;
+    font-family: 'Rubik Glitch', cursive;
+    color: rgb(255, 0, 0);
+}
+
+.container-fluid{
+    justify-content: center;
+    align-items: center;
+}
+
+
+h3{
+    font-style: italic;
+}
+
+.btn {
+    margin: 10px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.btn1 {
+    border-radius: 50px;
+    padding-top: 5px;
+    margin-top: 20px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
